@@ -1,0 +1,7 @@
+Crawl4AI==0.4.247
+python-dotenv
+pydantic==2.10.6
+playwright
+streamlit
+pandas
+plotly
